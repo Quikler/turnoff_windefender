@@ -1,8 +1,14 @@
-# turnoff_windefender
+<div align="center">
+  <h1>turnoff_windefender</h1>
 
-This is a simple console script written in C++ that disables Windows Defender by modifying registry keys.
+<p>This is a simple console script written in C++ that disables Windows Defender by modifying registry keys.</p>
 
-**Warning:** Disabling Windows Defender can leave your computer vulnerable to threats. Use this script with caution and ensure you have alternative protection in place.
+<p><b>Warning</b>: Disabling Windows Defender can leave your computer vulnerable to threats. Use this script with caution and ensure you have alternative protection in place.</p>
+<a href="https://github.com/Quikler/turnoff_windefender/releases">
+  <img src="https://img.shields.io/github/v/release/Quikler/turnoff_windefender" />
+</a>
+
+</div>
 
 ## Features
 
