@@ -3,16 +3,18 @@
 
 ><p>Simple console script written in C++ that disables Windows Defender by modifying registry keys.</p>
 >
-><p><b>Warning</b>: Disabling Windows Defender can leave your computer vulnerable to threats. Use this script with caution and ensure you have alternative protection in place.</p>
 ><a href="https://github.com/Quikler/turnoff_windefender/releases">
 >  <img src="https://img.shields.io/github/v/release/Quikler/turnoff_windefender" />
 ></a>
 
 </div>
 
+> [!CAUTION]
+> Disabling Windows Defender can leave your computer vulnerable to threats. Use this script with caution and ensure you have alternative protection in place.
+
 ## Features
 
-- Disables Windows Defender by modifying registry keys
+- Disables Windows Defender by modifying registry keys.
 
 ## Installation
 
@@ -20,11 +22,12 @@ Go to [Releases](https://github.com/Quikler/turnoff_windefender/releases) and ch
 
 ## Usage
 
-1. Run the turnoff_windefender.exe as administrator.
-2. The script will modify the registry keys to disable Windows Defender.
-3. Reboot yout pc to make changes work.
+> [!IMPORTANT]
+> Ensure you run the script as an administrator for it to work properly.
 
-**Note**: Ensure you run the script as an administrator for it to work properly.
+  1. Run the turnoff_windefender.exe as administrator.
+  2. The script will modify the registry keys to disable Windows Defender.
+  3. Reboot yout pc to make changes work.
 
 ## Screenshot:
 
